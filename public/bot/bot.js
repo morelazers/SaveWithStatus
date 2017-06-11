@@ -6,8 +6,7 @@
  *  React Native components that Status has enforced and not at all on my frivolous usage of copy
  *  and paste without concern for maintainability. I actually really like the component generation
  *  flow, though the fact that `touchable` components can only accept `view` components as their
- *  final argument confused me and caused a lot of crashes before I realised. IIRC this is also
- *  enforced in React Native, but it would be good to have something in the docs which mentions it.
+ *  final argument confused me and caused a lot of crashes before I realised.
  *
  *  All in all, creating the bot was a very pleasant experience, and I would say that the API, while
  *  still a pretty long way from being completely production-ready, is fully-fledged enough to build
